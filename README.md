@@ -2,7 +2,7 @@
 Use environment.yaml to build the environment. 
 
 ```bash
-conda env create -f environment.yml
+conda env create -f environment.yaml
 ```
 
 ## Datasets
